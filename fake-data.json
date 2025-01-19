@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "type": ["Electric"],
+      "stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "speed": 90
+      },
+      "abilities": ["Static", "Lightning Rod"],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+    },
+    {
+      "id": 2,
+      "name": "Charizard",
+      "type": ["Fire", "Flying"],
+      "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "speed": 100
+      },
+      "abilities": ["Blaze", "Solar Power"],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+    },
+    {
+      "id": 3,
+      "name": "Bulbasaur",
+      "type": ["Grass", "Poison"],
+      "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "speed": 45
+      },
+      "abilities": ["Overgrow", "Chlorophyll"],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+    },
+    {
+      "id": 4,
+      "name": "Squirtle",
+      "type": ["Water"],
+      "stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "speed": 43
+      },
+      "abilities": ["Torrent", "Rain Dish"],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+    },
+    {
+      "id": 5,
+      "name": "Jigglypuff",
+      "type": ["Normal", "Fairy"],
+      "stats": {
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "speed": 20
+      },
+      "abilities": ["Cute Charm", "Competitive", "Friend Guard"],
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+    }
+  ]
+}
